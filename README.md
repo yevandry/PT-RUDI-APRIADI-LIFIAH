@@ -9,7 +9,6 @@ DISTRIBUTOR PT PUPUK INDONESIA
   <header>
     <img src="LOGO PT RUDI APRIADI.jpg" alt="Logo PT RUDI APRIADI" class="logo">
   </header>
-</head>
 <body class="bg-white text-gray-800">
 
   <!-- Navbar -->
