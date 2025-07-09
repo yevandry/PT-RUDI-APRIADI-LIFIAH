@@ -1,12 +1,11 @@
 # PT-RUDI-APRIADI-LIFIAH
-PT RUDI APRIADI LIFIAH. DISTRIBUTOR PT PUPUK INDONESIA
+PT RUDI APRIADI LIFIAH. 
+DISTRIBUTOR PT PUPUK INDONESIA
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-</head>
 <body>
-
   <header>
     <img src="LOGO PT RUDI APRIADI.jpg" alt="Logo PT RUDI APRIADI" class="logo">
   </header>
