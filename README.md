@@ -4,8 +4,12 @@ PT RUDI APRIADI LIFIAH. DISTRIBUTOR PT PUPUK INDONESIA
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PT Rudi Apriadi Lifiah</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+
+  <header>
+    <img src="LOGO PT RUDI APRIADI.jpg" alt="Logo PT RUDI APRIADI" class="logo">
+  </header>
 </head>
 <body class="bg-white text-gray-800">
 
