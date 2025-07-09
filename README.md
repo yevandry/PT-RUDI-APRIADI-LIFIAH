@@ -1,4 +1,3 @@
-# PT RUDI APRIADI LIFIAH
 DISTRIBUTOR PT PUPUK INDONESIA
 <html lang="id">
 <head>
@@ -28,7 +27,6 @@ DISTRIBUTOR PT PUPUK INDONESIA
   <!-- Navbar -->
   <nav class="bg-green-700 text-white p-4 shadow-md">
     <div class="container mx-auto flex justify-between items-center">
-      <h1 class="text-xl font-bold">PT RUDI APRIADI LIFIAH</h1>
       <ul class="flex space-x-6">
         <li><a href="#beranda" class="hover:underline">Beranda</a></li>
         <li><a href="#tentang" class="hover:underline">Tentang Kami</a></li>
