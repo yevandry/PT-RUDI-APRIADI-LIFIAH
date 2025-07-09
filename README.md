@@ -1,6 +1,5 @@
 # PT-RUDI-APRIADI-LIFIAH
 PT RUDI APRIADI LIFIAH. DISTRIBUTOR PT PUPUK INDONESIA
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -63,8 +62,8 @@ PT RUDI APRIADI LIFIAH. DISTRIBUTOR PT PUPUK INDONESIA
     <h2 class="text-2xl font-bold mb-6">Hubungi Kami</h2>
     <p class="mb-4">Untuk pemesanan atau informasi lebih lanjut, silakan hubungi:</p>
     <ul>
-      <li>📞 Telp/WA: <strong>0823-7894-7692</strong></li>
-      <li>📧 Email: <strong>info@rudiapriadilifiah.co.id</strong></li>
+      <li>📞 Telp/WA : <strong>0812-7350-7143</strong></li>
+      <li>📧 Email: <strong>ptrudiapriadilifiah1990@gmail.com</strong></li>
       <li>🏢 Alamat: Jl.Palembang-Betung KM 16 No. 90 H Kelurahan Tanah Mas Palembang - Sumatra Selatan</li>
     </ul>
   </section>
